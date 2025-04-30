@@ -1,0 +1,24 @@
+D:\Medii si instrumente\VegsoProjekt\VegsoProjekt\bin\Debug\VegsoProjekt.exe.config
+D:\Medii si instrumente\VegsoProjekt\VegsoProjekt\bin\Debug\VegsoProjekt.exe
+D:\Medii si instrumente\VegsoProjekt\VegsoProjekt\bin\Debug\VegsoProjekt.pdb
+D:\Medii si instrumente\VegsoProjekt\VegsoProjekt\obj\Debug\VegsoProjekt.csproj.AssemblyReference.cache
+D:\Medii si instrumente\VegsoProjekt\VegsoProjekt\obj\Debug\VegsoProjekt.FoForm.resources
+D:\Medii si instrumente\VegsoProjekt\VegsoProjekt\obj\Debug\VegsoProjekt.Properties.Resources.resources
+D:\Medii si instrumente\VegsoProjekt\VegsoProjekt\obj\Debug\VegsoProjekt.csproj.GenerateResource.cache
+D:\Medii si instrumente\VegsoProjekt\VegsoProjekt\obj\Debug\VegsoProjekt.csproj.CoreCompileInputs.cache
+D:\Medii si instrumente\VegsoProjekt\VegsoProjekt\obj\Debug\VegsoProjekt.exe
+D:\Medii si instrumente\VegsoProjekt\VegsoProjekt\obj\Debug\VegsoProjekt.pdb
+D:\Medii si instrumente\VegsoProjekt\VegsoProjekt\bin\Debug\EntityFramework.dll
+D:\Medii si instrumente\VegsoProjekt\VegsoProjekt\bin\Debug\EntityFramework.SqlServer.dll
+D:\Medii si instrumente\VegsoProjekt\VegsoProjekt\bin\Debug\System.Data.SQLite.dll
+D:\Medii si instrumente\VegsoProjekt\VegsoProjekt\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Medii si instrumente\VegsoProjekt\VegsoProjekt\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Medii si instrumente\VegsoProjekt\VegsoProjekt\bin\Debug\EntityFramework.xml
+D:\Medii si instrumente\VegsoProjekt\VegsoProjekt\bin\Debug\EntityFramework.SqlServer.xml
+D:\Medii si instrumente\VegsoProjekt\VegsoProjekt\bin\Debug\System.Data.SQLite.xml
+D:\Medii si instrumente\VegsoProjekt\VegsoProjekt\obj\Debug\VegsoProjekt.Belsos.resources
+D:\Medii si instrumente\VegsoProjekt\VegsoProjekt\obj\Debug\VegsoProjekt.csproj.CopyComplete
+D:\Medii si instrumente\VegsoProjekt\VegsoProjekt\obj\Debug\VegsoProjekt.Programalas.resources
+C:\Users\bandi\Downloads\VegsoProjekt\VegsoProjekt\VegsoProjekt\obj\Debug\VegsoProjekt.csproj.AssemblyReference.cache
+C:\Users\bandi\Downloads\VegsoProjekt\VegsoProjekt\VegsoProjekt\obj\Debug\VegsoProjekt.exe
+C:\Users\bandi\Downloads\VegsoProjekt\VegsoProjekt\VegsoProjekt\obj\Debug\VegsoProjekt.pdb
